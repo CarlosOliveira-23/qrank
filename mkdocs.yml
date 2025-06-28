@@ -1,0 +1,13 @@
+site_name: QRank
+site_description: Analyze and rank SQL queries by performance and best practices
+site_author: Carlos
+repo_url: https://github.com/seu-usuario/qrank
+
+theme:
+  name: material
+  language: en
+
+nav:
+  - Home: index.md
+  - Usage: usage.md
+  - CLI Reference: cli.md
